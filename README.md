@@ -1,7 +1,7 @@
 # How to build a Pwnagotchi
 
-<img src="imgs/pwnagotchi.jpg" alt="Alt Text" width="600" height="400">
-<img src="imgs/pwnagotchi2.jpg" alt="Alt Text" width="600" height="400">
+<img src="imgs/pwnagotchi.jpg" alt="Alt Text" width="300" height="200">
+<img src="imgs/pwnagotchi2.jpg" alt="Alt Text" width="300" height="200">
 
 
 ### What is a Pwnagotchi
